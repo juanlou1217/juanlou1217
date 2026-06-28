@@ -23,7 +23,7 @@
   </p>
 </div>
 
-<!-- profile-readme-refresh: 2026-06-28T15:45:00+0800 -->
+<!-- profile-readme-refresh: 2026-06-28T15:52:00+0800 -->
 
 ---
 
@@ -57,10 +57,10 @@
 
 ### 我写过的一些东西
 
-- Building Effective Agents：从最小智能单元到 Agent 工程边界
-- Effective Context Engineering for AI Agents
-- AI 工具使用的一些反思：从知识到结构，再到约束
-- 最近的一些反思
+- [Building Effective Agents：从最小智能单元到 Agent 工程边界](https://juanlou-dev.vercel.app/blog/building-effective-agents)
+- [Effective Context Engineering for AI Agents](https://juanlou-dev.vercel.app/blog/effective-context-engineering-for-ai-agents)
+- [AI 工具使用的一些反思：从知识到结构，再到约束](https://juanlou-dev.vercel.app/blog/ai-workflow-from-knowledge-to-constraints)
+- [最近的一些反思](https://juanlou-dev.vercel.app/blog/not-just-a-passive-executor)
 
 ---
 
