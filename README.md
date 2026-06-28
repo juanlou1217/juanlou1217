@@ -23,7 +23,7 @@
   </p>
 </div>
 
-<!-- profile-readme-refresh: 2026-06-28T15:38:00+0800 -->
+<!-- profile-readme-refresh: 2026-06-28T15:45:00+0800 -->
 
 ---
 
@@ -61,59 +61,6 @@
 - Effective Context Engineering for AI Agents
 - AI 工具使用的一些反思：从知识到结构，再到约束
 - 最近的一些反思
-
-### Contributions
-
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=juanlou1217&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&hide_title=true"
-    />
-    <img
-      height="156"
-      src="https://github-readme-stats.vercel.app/api?username=juanlou1217&show_icons=true&theme=default&hide_border=true&rank_icon=github&hide_title=true"
-      alt="GitHub stats"
-    />
-  </picture>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juanlou1217&layout=compact&theme=github_dark&hide_border=true&hide_title=true"
-    />
-    <img
-      height="156"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanlou1217&layout=compact&theme=default&hide_border=true&hide_title=true"
-      alt="Top languages"
-    />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com?user=juanlou1217&theme=github-dark-blue&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j"
-    />
-    <img
-      src="https://streak-stats.demolab.com?user=juanlou1217&theme=default&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j"
-      alt="GitHub contribution streak"
-    />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=juanlou1217&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
-    />
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=juanlou1217&theme=minimal&hide_border=true&area=true&custom_title=Contribution%20Activity"
-      alt="Contribution activity graph"
-    />
-  </picture>
-</div>
 
 ---
 
