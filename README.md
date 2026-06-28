@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/233310600?v=4" width="96" alt="juanlou avatar" />
-
   <h1>Hi, I'm 卷娄 / 赵康</h1>
 
   <p>
@@ -12,19 +10,17 @@
   </p>
 
   <p>
-    <a href="https://juanlou.top">
-      <img src="https://img.shields.io/badge/Blog-juanlou.top-0f766e?style=flat-square" alt="Blog" />
-    </a>
     <a href="mailto:3106444523@qq.com">
       <img src="https://img.shields.io/badge/Email-3106444523%40qq.com-2563eb?style=flat-square" alt="Email" />
     </a>
+    <img src="https://img.shields.io/badge/WeChat-zk3106444523-16a34a?style=flat-square&logo=wechat&logoColor=white" alt="WeChat: zk3106444523" />
     <a href="https://github.com/juanlou1217">
       <img src="https://img.shields.io/badge/GitHub-juanlou1217-111827?style=flat-square&logo=github" alt="GitHub" />
     </a>
   </p>
 </div>
 
-<!-- profile-readme-refresh: 2026-06-28T15:06:30+0800 -->
+<!-- profile-readme-refresh: 2026-06-28T15:20:00+0800 -->
 
 ---
 
@@ -67,10 +63,10 @@
 
 ### 我写过的一些东西
 
-- [Building Effective Agents：从最小智能单元到 Agent 工程边界](https://juanlou.top/blog/building-effective-agents)
-- [Effective Context Engineering for AI Agents](https://juanlou.top/blog/effective-context-engineering-for-ai-agents)
-- [AI 工具使用的一些反思：从知识到结构，再到约束](https://juanlou.top/blog/ai-workflow-from-knowledge-to-constraints)
-- [最近的一些反思](https://juanlou.top/blog/not-just-a-passive-executor)
+- Building Effective Agents：从最小智能单元到 Agent 工程边界
+- Effective Context Engineering for AI Agents
+- AI 工具使用的一些反思：从知识到结构，再到约束
+- 最近的一些反思
 
 ### GitHub
 
@@ -87,10 +83,10 @@
   </p>
 
   <p>
-    <a href="https://juanlou.top">Blog</a>
-    ·
-    <a href="https://juanlou-dev.vercel.app">Vercel Preview</a>
-    ·
     <a href="mailto:3106444523@qq.com">Email</a>
+    ·
+    WeChat: <code>zk3106444523</code>
+    ·
+    <a href="https://github.com/juanlou1217">GitHub</a>
   </p>
 </div>
