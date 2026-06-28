@@ -23,7 +23,7 @@
   </p>
 </div>
 
-<!-- profile-readme-refresh: 2026-06-28T15:28:00+0800 -->
+<!-- profile-readme-refresh: 2026-06-28T15:38:00+0800 -->
 
 ---
 
@@ -55,15 +55,6 @@
   <img src="https://img.shields.io/badge/Rust-b45309?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
 </p>
 
-### 一些项目
-
-| Project | What it is | Notes |
-| --- | --- | --- |
-| [juanlou.dev](https://github.com/juanlou1217/juanlou.dev) | 我的个人博客系统 | `Next.js 16`、`React 19`、`Contentlayer`、`Prisma`、`PostgreSQL` |
-| [juan_canvas](https://github.com/juanlou1217/juan_canvas) | 在线图形绘制平台练习 | 练习复杂交互、画布状态和前端工程拆分 |
-| [juan_react](https://github.com/juanlou1217/juan_react) | 从零手写 React | 用实现框架的方式理解前端运行机制 |
-| [mega](https://github.com/juanlou1217/mega) | 代码托管平台相关实践 | 参与现代化代码托管产品的前端开发和维护 |
-
 ### 我写过的一些东西
 
 - Building Effective Agents：从最小智能单元到 Agent 工程边界
@@ -71,11 +62,57 @@
 - AI 工具使用的一些反思：从知识到结构，再到约束
 - 最近的一些反思
 
-### GitHub
+### Contributions
 
 <div align="center">
-  <img height="156" src="https://github-readme-stats.vercel.app/api?username=juanlou1217&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="156" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanlou1217&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=juanlou1217&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&hide_title=true"
+    />
+    <img
+      height="156"
+      src="https://github-readme-stats.vercel.app/api?username=juanlou1217&show_icons=true&theme=default&hide_border=true&rank_icon=github&hide_title=true"
+      alt="GitHub stats"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juanlou1217&layout=compact&theme=github_dark&hide_border=true&hide_title=true"
+    />
+    <img
+      height="156"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanlou1217&layout=compact&theme=default&hide_border=true&hide_title=true"
+      alt="Top languages"
+    />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=juanlou1217&theme=github-dark-blue&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j"
+    />
+    <img
+      src="https://streak-stats.demolab.com?user=juanlou1217&theme=default&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j"
+      alt="GitHub contribution streak"
+    />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=juanlou1217&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
+    />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=juanlou1217&theme=minimal&hide_border=true&area=true&custom_title=Contribution%20Activity"
+      alt="Contribution activity graph"
+    />
+  </picture>
 </div>
 
 ---
