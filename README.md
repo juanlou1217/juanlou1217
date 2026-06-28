@@ -10,6 +10,9 @@
   </p>
 
   <p>
+    <a href="https://juanlou-dev.vercel.app/">
+      <img src="https://img.shields.io/badge/Site-juanlou--dev.vercel.app-0f766e?style=flat-square" alt="Site" />
+    </a>
     <a href="mailto:3106444523@qq.com">
       <img src="https://img.shields.io/badge/Email-3106444523%40qq.com-2563eb?style=flat-square" alt="Email" />
     </a>
@@ -20,7 +23,7 @@
   </p>
 </div>
 
-<!-- profile-readme-refresh: 2026-06-28T15:20:00+0800 -->
+<!-- profile-readme-refresh: 2026-06-28T15:28:00+0800 -->
 
 ---
 
@@ -83,6 +86,8 @@
   </p>
 
   <p>
+    <a href="https://juanlou-dev.vercel.app/">Site</a>
+    ·
     <a href="mailto:3106444523@qq.com">Email</a>
     ·
     WeChat: <code>zk3106444523</code>
