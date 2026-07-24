@@ -13,8 +13,8 @@
     <a href="https://juanlou-dev.vercel.app/">
       <img src="https://img.shields.io/badge/Site-juanlou--dev.vercel.app-0f766e?style=flat-square" alt="Site" />
     </a>
-    <a href="mailto:3106444523@qq.com">
-      <img src="https://img.shields.io/badge/Email-3106444523%40qq.com-2563eb?style=flat-square" alt="Email" />
+    <a href="mailto:juanlou.zhao@gmail.com">
+      <img src="https://img.shields.io/badge/Email-juanlou.zhao%40gmail.com-2563eb?style=flat-square" alt="Email" />
     </a>
     <img src="https://img.shields.io/badge/WeChat-zk3106444523-16a34a?style=flat-square&logo=wechat&logoColor=white" alt="WeChat: zk3106444523" />
     <a href="https://github.com/juanlou1217">
@@ -72,7 +72,7 @@
   <p>
     <a href="https://juanlou-dev.vercel.app/">Site</a>
     ·
-    <a href="mailto:3106444523@qq.com">Email</a>
+    <a href="mailto:juanlou.zhao@gmail.com">Email</a>
     ·
     WeChat: <code>zk3106444523</code>
     ·
