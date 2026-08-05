@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    <a href="https://juanlou-dev.vercel.app/">
+    <a href="https://juanlou-dev.top/">
       <img src="https://img.shields.io/badge/Site-juanlou--dev.vercel.app-0f766e?style=flat-square" alt="Site" />
     </a>
     <a href="mailto:juanlou.zhao@gmail.com">
